@@ -1,0 +1,2 @@
+const e=React.createElement("div",{id:"heading"},[React.createElement("div",{id:"child"},[React.createElement("h1",{},"i'm h1 tag "),React.createElement("h2",{},"i'm h2 tag ")]),React.createElement("div",{id:"child"},[React.createElement("h1",{},"i'm h1 tag "),React.createElement("h2",{},"i'm h2 tag ")])]);ReactDOM.createRoot(document.getElementById("root")).render(e);
+//# sourceMappingURL=index.c34f70f1.js.map

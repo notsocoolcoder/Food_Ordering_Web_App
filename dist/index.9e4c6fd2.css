@@ -1,0 +1,67 @@
+.header {
+  border: 1px solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+.app-logo {
+  width: 120px;
+  margin: 10px;
+}
+
+.nav-items > ul {
+  font-size: 22px;
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  margin: 20px;
+  padding: 10px;
+}
+
+.res-card {
+  padding: 5px display:flex;
+  border: 1px solid #000;
+  flex-direction: column;
+  width: 300px;
+  margin: 10px;
+}
+
+.restaurant-container {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.search {
+  widht: 300px;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  height: 20px;
+  margin: 20px;
+}
+
+.res-image {
+  width: 300px;
+  height: 250px;
+}
+
+.shimmer-nav {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  width: 300px;
+}
+
+.shimmer-res-container {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.shimmer-res {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  width: 100%;
+  max-width: 300px;
+  height: 300px;
+  margin: 10px;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
